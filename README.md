@@ -1,4 +1,3 @@
-# 28-modul
 для запуска теста:
 #  1) Download geko driver for Chrome here:
 #     https://chromedriver.chromium.org/downloads
@@ -18,3 +17,4 @@
 и количество
 не большая заметка по каким то причинам у меня не работал пайджобьект
 проблемы с импортом решения таки не нашел.
+
