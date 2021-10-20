@@ -1,5 +1,5 @@
 для запуска теста:
-#  1) Download geko driver for Chrome here:
+#  1) Download chrome driver for Chrome here:
 #     https://chromedriver.chromium.org/downloads
 #  2) Install all requirements:
 #     pip install -r requirements.txt
